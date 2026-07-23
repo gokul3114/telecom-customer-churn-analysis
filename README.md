@@ -128,21 +128,16 @@ The dashboard provides an interactive overview of customer churn using KPIs, cha
 ```
 telecom-customer-churn-analysis/
 │
-├── data/
-│   └── telco_churn_cleaned.csv
+├── telco_churn_cleaned.csv
+│   
+├── telco_churn.ipynb
+│  
+├── sql with Q and A.sql
+│   
+├── telecom churn analysis.pbix
 │
-├── python/
-│   └── data_cleaning.ipynb
-│
-├── sql/
-│   └── churn_analysis.sql
-│
-├── powerbi/
-│   └── Telecom_Customer_Churn.pbix
-│
-├── images/
-│   └── dashboard.png
-│
+├── dashboard.png
+│   
 └── README.md
 ```
 
@@ -188,11 +183,9 @@ Business Insights & Recommendations
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here after uploading it to the `images` folder.)*
 
-```markdown
 ![Dashboard](https://github.com/gokul3114/telecom-customer-churn-analysis/blob/main/Dashboard.png)
-```
+
 
 ---
 
@@ -202,6 +195,10 @@ Business Insights & Recommendations
 
 Aspiring Data Analyst skilled in SQL, Python, Excel, Power BI, Tableau, and Data Visualization, with a strong interest in transforming raw data into actionable business insights.
 
+### Connect with me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gokul-g-1a44952b3/
+- 💻 GitHub: https://github.com/gokul3114
 ---
 
 ## ⭐ If you found this project helpful, consider giving it a star!
