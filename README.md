@@ -191,7 +191,7 @@ Business Insights & Recommendations
 > *(Add your dashboard screenshot here after uploading it to the `images` folder.)*
 
 ```markdown
-![Dashboard]()
+![Dashboard](https://github.com/gokul3114/telecom-customer-churn-analysis/blob/main/Dashboard.png)
 ```
 
 ---
